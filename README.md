@@ -1,4 +1,4 @@
-# tif
+# TIF-App
 
 A new Flutter project.
 
